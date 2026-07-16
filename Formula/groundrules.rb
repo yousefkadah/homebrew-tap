@@ -1,8 +1,8 @@
 class Groundrules < Formula
   desc "One source of truth for AI coding agents (node-free binary)"
   homepage "https://github.com/yousefkadah/groundrules"
-  url "https://github.com/yousefkadah/groundrules/archive/refs/tags/v0.2.3.tar.gz"
-  sha256 "d0c1c0a0e68301c50a5980c12af125330990517c66358e6bc7aefa7027854e21"
+  url "https://github.com/yousefkadah/groundrules/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "41579c41a9f369ce9c734b789f8613670ad200adaeff553e2b951db2c86ed79a"
   license "MIT"
   head "https://github.com/yousefkadah/groundrules.git", branch: "main"
 
